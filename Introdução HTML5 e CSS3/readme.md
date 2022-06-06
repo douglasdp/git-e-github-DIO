@@ -6,4 +6,5 @@
 - Semântica
 - Tags
 - Imagens
+- Listas
 
