@@ -14,6 +14,7 @@
 - Declarações color: blue, font-size: 14px...
 - ID . Class #
 - Padding e Margin
+- Border, alinhamentos, bordas, cores e tamanhos {border-top/rigth/bottom/left -- dotted/dashed/solid
 
 Recomendações de Estudo: https://developer.mozilla.org/pt-BR/docs/Web/CSS
 
