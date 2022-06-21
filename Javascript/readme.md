@@ -17,21 +17,22 @@ _Contador_
 ## SINTAXE BÁSICA EM JAVASCRIPT
 
 - Tipos de dados
+
 *boolean*
-'''
+```
 var vouf = false;
 console.log(typeof(vouf));
-'''
+```
 
 *number*
-'''
+```
 var nroqlqr = 1;
 console.log(typeof(nroqlqr));
-'''
+```
 
 *string*
-'''
+```
 var nome = 'douglas';
 console.log(typeof(nome));
-'''
+```
 
