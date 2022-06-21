@@ -83,7 +83,8 @@ console.log(potenciacao);
 
 - **Operadores Relacionais**
 
-> >maior que
+```
+>maior que
 <menor que
 >= maior ou igual a
 <= menor ou igual a
