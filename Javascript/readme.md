@@ -107,7 +107,8 @@ console.log(menorOuIgual);
 
 - **Operadores Lógicos**
 
+```
 && (e) • considera que todos os valores sejam true (verdadeiro);
 || (ou) • considera que qualquer valor seja true (verdadeiro);
 ! (não) • inverte o valor de treu para false (falso) ou vice-versa.
-
+```
