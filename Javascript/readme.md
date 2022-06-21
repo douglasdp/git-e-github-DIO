@@ -90,6 +90,7 @@ console.log(potenciacao);
 <= menor ou igual a
 
 ```
+```
 var maiorQue = 5 > 2;
 console.log(maiorQue);
 
