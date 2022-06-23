@@ -112,3 +112,11 @@ console.log(menorOuIgual);
 || (ou) • considera que qualquer valor seja true (verdadeiro);
 ! (não) • inverte o valor de treu para false (falso) ou vice-versa.
 ```
+
+- **Vetores ou Arrays e Objetos**
+
+- Declaração de arrays;
+- Manipulação de arrays;
+- Declaração de Objetos;
+- Manipulação e desestruturação de objetos.
+
