@@ -120,3 +120,10 @@ console.log(menorOuIgual);
 - Declaração de Objetos;
 - Manipulação e desestruturação de objetos.
 
+- **Estruturas condiconais**
+
+``` Detalhes da aula estão comentadas no codigo```
+
+- **Funções**
+
+``` Detalhes da aula estão comentadas no codigo```
